@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cotizadordeseguuros",
+  "private_key_id": "c0d0d88a23831c599343c478b827de7797ea5928",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDG6Pprvc2Lg3fJ\nZDCAcv70raK2NCZnhH6RPePkXlj4KRbxKBcHPra9lMimZwfRcyXOqGjbhe7miyG4\nKKCpWkS92sJsxfs78yl42sRaR+mHdS1Id5BCSX4QcNKNcsnCMx5uq5uYKRLWzK0g\ni/CIqFbWp7R/GAenovLmRz/j4Z+AQRzZJAMjz2rA+QrnX/dcCsRDXUz3lLX8NV+7\n91zyv8Z2BEd5cfquncr+oYyZcRZf4bXL0g14VTZz00w23p6KxstKoHxz+NbMGvj5\niDAMJAXOSPvG0pM6OFPK07WDycNLh+tBO+ZeGTdETmiA+NTMe3n8NC7W76rNDThA\neOwDOsMVAgMBAAECggEABOYRezqHTRXGixgMm6IggO2kliNWYSCqo6Xp6wnClOVa\nY1HHBdsSZzyW9CJm88A5l8ftEBFuNu17UzICEHxWAAKpI97uePcjUNzlwHRzb9/1\nGJInsnOQEfDc7/YIVoOigIpOsItmo2c9bYN3cZPup8n6nOAh7wS6+sHSn6FtZ44H\nzmvSfmaqXQTrOPOKDWvRefm+ZOA11Kt+u4H5dsNPC/eSv6bvkms7enhWGZS85mve\nh4PgIeRAdCqJ0M1RoZeOR05bVSXgyYpsEcONOHgLF3jsFkORUTIglCax97aOmXdL\ntkPdhnhvGsNfJYsVhHyBgFS4QmOJsNZWpnkHaDwMQQKBgQD3KTfIfaNq0DzLb6rC\noc9LJFTbmL1iI0yX0O6h9P+SGNpenyLOWnVaMuKBtd8zD7VEXPok3sFKaRYFZA0f\nujVBReBKxqVljAxpNUKmA0W7l7igiT4eaJ/95QmvcAAG+ikSRQVahxmD87U0FoCs\nkHVn2HwmSRHzOLmzaxuabRGq1QKBgQDOBgS66T0HxoSideHIjsa2k06l8HjaByCl\nAYc511HVcf9WUtheuTbizc+mcezuyF6657Skn87zAwImudwuZpH0yNvQbBvEfS5J\nvNC/c7CGn4siifur9/cfb+zj4XO6ggA7Gze/PfuB5zXvGFSTMA7m7l54iqfTZB85\nS3lDBfBXQQKBgCqJZndT4B8O7ZeZhUrv7CwjeZM9i0JrjtAF/jvTXXS4YESuoJ/h\nA5ddcIwgT+SKzIiSc96Kk7uJsGeHG5cdRfMQ4pQb8fUzECO/LdRCdereJsFCPXWg\nTgC1PWB7JxYMUas6Q7ybybFi7Qmk4cpRJlOT93HjW3p/hb4yLdL6+HJtAoGBAK53\nxEuwtsE96RZXM6QO3NLCPmkiEoW4YXm6qJRf9moGBtBIifj1ajh5R+7RLW8s+aPY\nEk8TEkMS+iBnZsFYlSOxcQy4cG9d/vPs1O48f3IR69aM+TaxX3Ic64QzaTi5XI6x\nRu1KBRIGBdN7TCv1F7mShSgZa3QFprdzZbZPci/BAoGAQCMROX9C+NBznEr1BTzf\nFnCJ2i3ll+shnh0VVkoPo1o3Z4Pm/Cq8lSuoJoIHdKjR6dUalX6U01U3YJwf1EMI\ny5+bIZNWvhUje2ywgZ5YhCHnBSc+hdU0jeQtTE2dlyHTJ9Uy8uedZzHDi8PcTeeu\nGPZ1QCi8guBpIS4YvqJ4GQY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cotizador@cotizadordeseguuros.iam.gserviceaccount.com",
+  "client_id": "112151090429696642464",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cotizador%40cotizadordeseguuros.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
